@@ -58,6 +58,8 @@ git clone https://github.com/Sandeep-yadav-hub/docker-local-registry.git
 ```
 - Give execute permission to docker-registry-deploy.sh.
 
+- change the reg_name and reg_port according to the registry container name and port
+
 - Execute docker-registry-deploy.sh.
 
 - Change/create a kind cluster 
